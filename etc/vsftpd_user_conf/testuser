@@ -1,0 +1,2 @@
+local_root=/shared
+virtual_use_local_privs=YES
